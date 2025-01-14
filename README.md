@@ -30,4 +30,4 @@ This project provisions Kubernetes clusters across multiple cloud providers (AWS
 
 ## Author 
 Alejandro Mercado Peña
-This original article can be found on [medium]() .
+The article can be found on [medium](https://alexmarket.medium.com/kubernetes-cluster-in-multiple-clouds-e9f5af083cca).
