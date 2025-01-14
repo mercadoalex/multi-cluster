@@ -2,6 +2,8 @@
 
 This project provisions Kubernetes clusters across multiple cloud providers (AWS, Azure, and Alibaba Cloud) using Terraform. It also sets up Kubernetes Federation to manage these clusters as a single entity.
 
+![Multi-Cloud Deployment](multi_deploy.jpeg)
+
 ## Project Structure
 
 - `aws.tf`: Terraform configuration for provisioning an EKS cluster in AWS.
@@ -24,3 +26,8 @@ This project provisions Kubernetes clusters across multiple cloud providers (AWS
    ```sh
    git clone <repository-url>
    cd <repository-directory>
+
+
+## Author 
+Alejandro Mercado Peña
+This original article can be found on [medium]() .
